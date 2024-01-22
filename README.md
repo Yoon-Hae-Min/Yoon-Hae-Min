@@ -5,6 +5,10 @@
 <h2>🌱프론트엔드 개발자 윤해민 입니다.🌱</h2>
 
 
+ [RESUME](https://www.figma.com/file/HRfLjcVWs5vcycTeokFGVS/%EC%9D%B4%EB%A0%A5%EC%84%9C?type=design&node-id=0%3A1&mode=design&t=Q5qh3kI4ZbGhw8V0-1) | 
+ [BLOG](https://yoonhaemin.com/)
+
+
 <p>My Favorite Stack</p>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
